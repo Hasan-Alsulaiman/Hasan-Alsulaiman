@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on anything related to NodeJS, MongoDB or Python
 - 🤔 I’m looking for help with NS3 
 - ⚡ Fun fact: I am friendly
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fquadruplet&psig=AOvVaw1LIRbDsbQ7_Y3wlHKHa9Sr&ust=1595606626198000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJio7oXg4-oCFQAAAAAdAAAAABAJ
+
