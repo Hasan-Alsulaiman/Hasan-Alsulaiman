@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Hi.
+- I am currently working on some computer-vision problems
 
