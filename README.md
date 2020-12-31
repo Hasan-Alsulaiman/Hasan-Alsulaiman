@@ -15,9 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on NS3 (network simulator 3)
-- 🌱 I’m currently learning backend technology
-- 👯 I’m looking to collaborate on anything related to NodeJS, MongoDB or Python
-- 🤔 I’m looking for help with NS3 
-- ⚡ Fun fact: I am friendly
+- Hi.
 
